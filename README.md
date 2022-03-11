@@ -1,6 +1,6 @@
 # 🌤️ EzWeatherApp
 
-This is a simple desktop application that allows users to search for weather and forecast information specific to the location of choice through the search feature. The main purpose of this application is to demonstirate building a simple weather application using JetBrains' Compose Multiplatform Framework in Kotlin. [WeatherAPI](https://www.weatherapi.com/) is used as the only source of information. 
+This is a simple desktop application that allows users to search for weather and forecast information specific to the location of choice through the search feature. The main purpose of this application is to demonstrate building a simple weather application using JetBrains' Compose Multiplatform Framework in Kotlin. [WeatherAPI](https://www.weatherapi.com/) is used as the only source of information. 
 
 ## 🧰 Libraries and Tools
 * [Compose Multiplatform Framework](https://www.jetbrains.com/lp/compose-mpp/)
@@ -19,4 +19,4 @@ This is a simple desktop application that allows users to search for weather and
 
 #### 📹 [Link to Demo Video](https://www.dropbox.com/s/mq0wyd3rse63ps6/EzWeatherAppDemoVideo.mov?dl=0)
 
-👏 Inspired by Compose For Desktop tutorial by Robert Orgiu posted on [raywenderlich.com](https://www.raywenderlich.com/)
+👏 Inspired by Robert Orgiu's tutorial posted on [raywenderlich.com](https://www.raywenderlich.com/)
